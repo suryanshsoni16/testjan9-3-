@@ -1,0 +1,144 @@
+
+#meet{
+    display: inline-block;
+    font-family: 'Product Sans',Arial,sans-serif;
+    font-size: 22px;
+    line-height: 24px;
+    padding-left: 8px;
+    
+    top: -1.5px;
+    vertical-align: middle;
+    color: #5f6368;
+    opacity: 1
+}
+
+.navbar{
+
+
+    display: inline-block;
+    
+    width: 100%;
+}
+
+
+
+.brand-logo{
+
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-left: 0px;
+    
+}
+
+.nav-items{
+    float:right;
+    
+   
+}
+
+
+
+
+.nav-items a{
+    
+    margin-left: 20px;
+}
+
+.nav-items a img{
+
+    vertical-align: middle;
+    width: 30px;
+}
+
+
+
+
+.main-content{
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    color: #5f6368;
+    color: var(--gm-color-caption,#5f6368);
+    max-width: 30rem;
+    padding-bottom: 3em;
+    display: flex;
+   
+}
+
+.left-content{
+   
+
+    margin-top: 10px;
+    margin-left: 80px;
+  
+    font-family: 'Google Sans Display',Roboto,Arial,sans-serif;
+    font-size: 30px;
+    
+    letter-spacing: 0;
+    line-height: 1cm;
+   
+    
+}
+
+.new-meeting{
+
+    padding: 10px;
+    background-color: blue;
+}
+
+.code-link{
+
+  margin-top: 20px;
+
+
+    padding:10px;
+}
+
+
+#p1{
+    font-family: 'Google Sans Display',Roboto,Arial,sans-serif;
+    font-size: 2.75rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 3.25rem;
+    padding-bottom: .5em;
+
+}
+
+#p2{
+
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    color: #5f6368;
+    color: var(--gm-color-caption,#5f6368);
+    max-width: 30rem;
+    padding-bottom: 3em;
+}
+
+#p3{
+
+    letter-spacing: .00625em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding-top: 1.5em;
+    color: #5f6368;
+    color: var(--gm-color-caption,#5f6368);
+}
+
+
+.right-content{
+    
+    margin-top:30%;
+    padding: 15px;
+
+    margin-left:130%;
+
+   
+}
